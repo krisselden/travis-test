@@ -1,1 +1,5 @@
 language: node_js
+after_script:
+  - env
+node_js:
+  - 10
